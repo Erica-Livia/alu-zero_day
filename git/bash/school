@@ -1,7 +1,5 @@
 #!/bin/bash
-<<<<<<< HEAD
+
 echo "Schoooool!"
-ee
-=======
 echo"School!"
->>>>>>> update_script
+
